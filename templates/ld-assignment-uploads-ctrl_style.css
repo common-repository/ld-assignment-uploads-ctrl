@@ -1,0 +1,35 @@
+/*** css */
+.ldauc h2 {
+    color: #C30;
+}
+
+a.back-to-lesson-link {
+    font-size: 16px;
+    font-weight: bold;
+    height: auto;
+    line-height: 48px;
+    padding: 0 15px 0 15px;
+    text-decoration: none !important;
+    transition: all ease-out 0.3s !important;
+    width: auto;
+}
+
+a.back-to-lesson-link:hover {
+    color: #09F !important;
+}
+
+a.back-to-lesson-link, a.back-to-lesson-link:hover {
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
+}
+
+.message-p {
+    font-size: 18px;
+    line-height: 1.4;
+    margin: 20px 0 0 0;
+    padding-left: 0;
+}
+
+.allowed-extensions {
+    font-size: 14px !important;
+}
